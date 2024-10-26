@@ -24,7 +24,7 @@ La calidad y cantidad de datos pueden determinar el exito del modelo
 
 ## 5.Generacion de datos sinteticos
 Caundo datos son insuficientes o dificiles de conseguir. alternativas: 
-* Modelos estadisticos
+* Modelos estadisticos .
 * Simulaciones
 *algoritmos generativos: REdes generativas adeversarias (GANS) generan datos q imitan caracteristicas de datos reales
 
